@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniEatsWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ba0dfda2bc98ffb692f7893c6c6080f57ddea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954a15364f3d13f6d6564145d9fde28052ccd4e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniEatsWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniEatsWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
